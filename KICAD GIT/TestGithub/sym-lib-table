@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB_TYPEC")(type "KiCad")(uri "${KIPRJMOD}/Librerias/JABB_Librerias/MODULES/USB TYPE C/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+)

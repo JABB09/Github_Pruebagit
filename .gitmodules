@@ -1,0 +1,3 @@
+[submodule "KICAD GIT/TestGithub/Librerias/JABB_Librerias"]
+	path = KICAD GIT/TestGithub/Librerias/JABB_Librerias
+	url = https://github.com/JABB09/Kicad_Library.git
